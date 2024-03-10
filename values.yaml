@@ -1,2 +1,2 @@
 spec:
-  namespace: 'some-namespace-name'
+  namespace: 'sealed-secrets'
